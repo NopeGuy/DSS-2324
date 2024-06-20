@@ -30,6 +30,6 @@
 
 ## Membros do Grupo
 
-- **Luís Ferreira** @NopeGuy
-- **João Pastore** @SenseiBott
-- **David Teixeira** @Gnomo03
+[@NopeGuy](https://github.com/NopeGuy) \
+[@SenseiBott](https://github.com/SenseiBott) \
+[@Gnomo03](https://github.com/Gnomo03) 
